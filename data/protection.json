@@ -1,0 +1,28 @@
+{
+  "friendrequestspam": "on",
+  "massdm": "on",
+  "accountprotection": "off",
+  "backup-password": "0wpHb8iuFD",
+  "gcspam": "on",
+  "automod": {
+    "user_spam": {
+      "state": true,
+      "lapse": 5,
+      "threshold": 9,
+      "servers": [],
+      "whitelist_channels": [],
+      "whitelist_roles": [],
+      "whitelist_users": [],
+      "bots": false,
+      "reply": {
+        "state": true,
+        "message": "Stop spamming."
+      },
+      "timeout": {
+        "state": true,
+        "duration_minutes": 15,
+        "reason": "Automod - user spam"
+      }
+    }
+  }
+}
