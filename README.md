@@ -4,5 +4,5 @@ Enjoy Skids
 
 # REMINDER
 ```
-this crack could have ip/token loggeds
+this crack could have ip/token loggers
 ```
