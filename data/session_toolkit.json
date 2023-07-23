@@ -1,0 +1,30 @@
+{
+  "session_toolkit": {
+    "reset_password": false,
+    "location_whitelist": {
+      "state": false,
+      "cities": [],
+      "regions": [
+        "North Rhine-Westphalia",
+        "Hesse"
+      ],
+      "countries": [
+        "Germany"
+      ]
+    },
+    "os_blacklist": {
+      "state": false,
+      "windows": false,
+      "mac": false,
+      "linux": false,
+      "android": false,
+      "ios": false
+    },
+    "platform_blacklist": {
+      "state": false,
+      "client": false,
+      "web": false,
+      "mobile": false
+    }
+  }
+}
